@@ -1,0 +1,22 @@
+{
+    "params" :
+    {
+        "local_server" : "True",
+        "local_uri" : "mysql+pymysql://root:@localhost/Blog",
+        "prod_uri" : "mysql+pymysql://root:@localhost/Blog",
+        "fb_url" : "https://facebook.com/CleanBlog", 
+        "tw_url" : "https://twitter.com/CleanBlog",
+        "gh_url" : "https://github.com/CleanBlog",
+        "blog_name" : "Love",
+        "tag_line" : "Love is Everything.",
+        "gmail-user" : "abhaysananse@gmail.com",
+        "gmail-pswrd" : "abhay12345",
+        "about_blog" : "hii the introduction is not enough for this blog.",
+        "no_of_post" : 2,
+        "login_img" : "home-bg.jpg",
+        "admin_user" : "abhay@gmail.com",
+        "admin_pswrd" : "sananse",
+        "location_uploader" : "C:\\Users\\HP\\FlaskTutorial"
+    }
+
+}
